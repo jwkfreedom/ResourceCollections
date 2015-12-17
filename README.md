@@ -13,7 +13,13 @@
 ## Other Web UI Resource
 - [Semantic-UI](http://semantic-ui.com/)
     + [github](https://github.com/semantic-org/semantic-ui/)
-    
+### CSS Resource
+- [Animate.css](https://github.com/daneden/animate.css)一个非常好用的动画库
+- [Bounce.js](https://github.com/tictail/bounce.js) is a tool and JS library for generating beautiful CSS3 powered keyframe animations. 
+- [magic.css](https://github.com/miniMAC/magic) Special CSS effects
+- [Hover.css](https://github.com/IanLunn/Hover) A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.
+
+
 
 ## React Sample & Tutorials
 - [ReactJS + NodeJS ( express ) demo tutorial with video](https://github.com/DavidWells/isomorphic-react-example)
