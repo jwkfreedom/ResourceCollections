@@ -25,5 +25,13 @@
 - [ReactJS + NodeJS ( express ) demo tutorial with video](https://github.com/DavidWells/isomorphic-react-example)
 
 
+## Awesome Resources
+- [react](https://github.com/enaqx/awesome-react#react-general-resources)
+- [react-native](https://github.com/jondot/awesome-react-native)
+- [javascript](https://github.com/sorrycc/awesome-javascript)
+- [css](https://github.com/sotayamashita/awesome-css)
+- [frontend](https://github.com/JingwenTian/awesome-frontend)
+- [awesomelist](https://github.com/sindresorhus/awesome)
+
 # MarkDown hot key Setting
 > { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
