@@ -33,5 +33,8 @@
 - [frontend](https://github.com/JingwenTian/awesome-frontend)
 - [awesomelist](https://github.com/sindresorhus/awesome)
 
+# Study Mem
+- [react prime](https://github.com/mikechau/react-primer-draft)
+
 # MarkDown hot key Setting
 > { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
