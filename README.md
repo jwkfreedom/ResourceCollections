@@ -1,4 +1,10 @@
 # ResourceCollections
+## 非常好用的JS库
+- [pm2](http://pm2.keymetrics.io/) used
+    + 一个带有负载均衡功能的Node应用的进程管理器
+- [flowchat.js](http://flowchart.js.org/)
+    + 仅需几行代码即可在 Web 上完成流程图的构建
+
 ## React UI Resource
 - [Material-UI](http://www.material-ui.com/)
  Material-UI is a set of React components that implement Google's Material Design specification.
@@ -30,6 +36,7 @@
 - [react-native](https://github.com/jondot/awesome-react-native)
 - [javascript](https://github.com/sorrycc/awesome-javascript)
 - [css](https://github.com/sotayamashita/awesome-css)
+- [css中文](https://github.com/jobbole/awesome-css-cn)
 - [frontend](https://github.com/JingwenTian/awesome-frontend)
 - [awesomelist](https://github.com/sindresorhus/awesome)
 
