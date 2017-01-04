@@ -31,7 +31,9 @@
 - [magic.css](https://github.com/miniMAC/magic) Special CSS effects
 - [Hover.css](https://github.com/IanLunn/Hover) A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.
 
-
+## 开源工具
+- [Gitea](https://try.gitea.io/)一个极易安装，运行非常快速，安装和使用体验良好的自建 Git 服务
+    + [github](https://github.com/go-gitea/gitea)
 
 ## React Sample & Tutorials
 - [ReactJS + NodeJS ( express ) demo tutorial with video](https://github.com/DavidWells/isomorphic-react-example)
