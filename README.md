@@ -20,6 +20,7 @@
 - [React Foundation Apps](http://webrafter.com/opensource/react-foundation-apps/install)
 - [React-bootstrap](http://react-bootstrap.github.io/)
 - [TouchstoneJS](http://touchstonejs.io/)
+- [Expo](https://expo.io/)
  Mobile only
 
 ## Other Web UI Resource
